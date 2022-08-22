@@ -1,4 +1,4 @@
-# Image Denoising by Mean Curvature Flow
+# Mean_Curvature_Flow_on_Graphs_for_Image_Denoising
 
 This repository is implementation of final project for Image Processing with Partial Differential Equations course in 2020 fall semester at National Chiao Tung University.
 
